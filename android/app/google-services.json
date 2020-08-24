@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195352237968",
+    "firebase_url": "https://cow-monitoring.firebaseio.com",
+    "project_id": "cow-monitoring",
+    "storage_bucket": "cow-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195352237968:android:d9d7805a46194ac7144515",
+        "android_client_info": {
+          "package_name": "com.example.FypProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195352237968-468m9r1jiftqdo37no095pp5lur6h589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfoRjwDnq0ZkIOABqVlMSIn1XytlCQJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195352237968-468m9r1jiftqdo37no095pp5lur6h589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
